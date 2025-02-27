@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Terminal</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Terminal</description>
+    <title>Tags on Skycloud</title>
+    <link>https://skyly-night.github.io/skycloud5/public/tags/</link>
+    <description>Recent content in Tags on Skycloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skyly-night.github.io/skycloud5/public/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>/tags/blog/</link>
+      <link>https://skyly-night.github.io/skycloud5/public/tags/blog/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blog/</guid>
+      <guid>https://skyly-night.github.io/skycloud5/public/tags/blog/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>skycloud</title>
-      <link>/tags/skycloud/</link>
+      <link>https://skyly-night.github.io/skycloud5/public/tags/skycloud/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/skycloud/</guid>
+      <guid>https://skyly-night.github.io/skycloud5/public/tags/skycloud/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>skylar</title>
-      <link>/tags/skylar/</link>
+      <link>https://skyly-night.github.io/skycloud5/public/tags/skylar/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/skylar/</guid>
+      <guid>https://skyly-night.github.io/skycloud5/public/tags/skylar/</guid>
       <description></description>
       <content></content>
     </item>

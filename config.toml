@@ -1,4 +1,4 @@
-baseurl = "/"
+baseURL = "https://skyly-night.github.io/skycloud5/public/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -60,23 +60,16 @@ paginate = 5
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
 
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
-
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Skycloud"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
-      copyright = ""
+      subtitle = "A comfy little blog, hosted with Github."
+      owner = "skyly-night"
+      keywords = "blog"
+      copyright = "skyly-night"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
@@ -88,7 +81,7 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Skycloud"
         logoHomeLink = "/"
 
       [languages.en.menu]
