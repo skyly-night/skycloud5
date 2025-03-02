@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skyly-night.github.io/skycloud5/public/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First blog post</title>
+      <title>Third blog post</title>
       <link>https://skyly-night.github.io/skycloud5/public/posts/welcome-to-my-blog/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
@@ -22,11 +22,11 @@ Soo, to get started, I think that I&amp;rsquo;m going to talk a lot about my tho
     </item>
     
     <item>
-      <title>Seccond blog post</title>
-      <link>https://skyly-night.github.io/skycloud5/public/posts/test-blogpost/</link>
+      <title>First blog post</title>
+      <link>https://skyly-night.github.io/skycloud5/public/posts/my-first-blogpost/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://skyly-night.github.io/skycloud5/public/posts/test-blogpost/</guid>
+      <guid>https://skyly-night.github.io/skycloud5/public/posts/my-first-blogpost/</guid>
       <description>Here I can write the text, which is later going to be uploaded to the repository. What is written in here, is what will be published to my blog :)
 This feels so insanely powerful! I fricking love Hugo by now, this feels soo awesome!!</description>
       <content>&lt;p&gt;Here I can write the text, which is later going to be uploaded to the repository.
@@ -37,11 +37,11 @@ I fricking love Hugo by now, this feels soo awesome!!&lt;/p&gt;
     </item>
     
     <item>
-      <title>Third blog post</title>
-      <link>https://skyly-night.github.io/skycloud5/public/posts/my-first-blogpost/</link>
+      <title>Seccond blog post</title>
+      <link>https://skyly-night.github.io/skycloud5/public/posts/test-blogpost/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://skyly-night.github.io/skycloud5/public/posts/my-first-blogpost/</guid>
+      <guid>https://skyly-night.github.io/skycloud5/public/posts/test-blogpost/</guid>
       <description>Here I can write the text, which is later going to be uploaded to the repository. What is written in here, is what will be published to my blog :)
 This feels so insanely powerful! I fricking love Hugo by now, this feels soo awesome!!</description>
       <content>&lt;p&gt;Here I can write the text, which is later going to be uploaded to the repository.
